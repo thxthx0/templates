@@ -6,7 +6,7 @@ type: Curtain Switch
 standard: eu
 link: https://www.amazon.de/gp/product/B07H9PSQCN
 image: https://images-na.ssl-images-amazon.com/images/I/51XUwB0IefL._SL1200_.jpg
-template: '{"NAME":"Taopao","GPIO":[255,255,255,18,22,19,255,255,255,21,255,255,17],"FLAG":1,"BASE":18}' 
+template: '{"NAME":"Teepao","GPIO":[255,255,255,18,22,19,255,255,255,21,255,255,17],"FLAG":1,"BASE":18}' 
 link_alt: 
 ---
 
@@ -17,4 +17,5 @@ PulseTime2 130
 PulseTime3 1
 ```
 
-
+You may also have a look there:
+https://community.home-assistant.io/t/teepao-window-cover-shutters-integration/114548
